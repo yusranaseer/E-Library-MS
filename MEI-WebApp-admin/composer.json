@@ -1,0 +1,11 @@
+{
+    "name": "project2/new",
+    "description": "php firbase",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {
+        "google/cloud-storage": "dev-main",
+        "google/cloud-firestore": "dev-main"
+    }
+}

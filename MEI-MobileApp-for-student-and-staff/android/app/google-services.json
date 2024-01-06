@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "865026379249",
+    "firebase_url": "https://mecdb-ba6be-default-rtdb.firebaseio.com",
+    "project_id": "mecdb-ba6be",
+    "storage_bucket": "mecdb-ba6be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865026379249:android:2f6bb62461900108c60850",
+        "android_client_info": {
+          "package_name": "com.example.elibrary_frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865026379249-cf7oi4sahmoa57diub730bvkl36adkuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6XQI1jdlj2HvayNLAYLkR36m67tP9EPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865026379249-cf7oi4sahmoa57diub730bvkl36adkuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
